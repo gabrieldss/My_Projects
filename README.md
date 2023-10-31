@@ -18,3 +18,6 @@ https://github.com/gabrieldss/Sony_replica
 https://github.com/gabrieldss/Web2_Sony
 <br>
 https://github.com/gabrieldss/Web3_Sony
+
+## Mario game:
+https://github.com/gabrieldss/marioGame
